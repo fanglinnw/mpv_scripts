@@ -11,7 +11,7 @@
 
 **Usage**:
 - Press "q" to quit playback. You'll be asked if you want to delete the file.
-- Press "y" to delete, anything else to cancel.
+- Press "y" to delete, "n" to cancel.
 
 **Note**: File deletion is permanent. Make sure before confirming.
 
